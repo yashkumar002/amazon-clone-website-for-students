@@ -39,7 +39,7 @@ Amazon-Clone/
 ---
 
 ## 📷 Preview
-![Amazon Clone Screenshot](images/screenshot.png)
+![Amazon Clone Screenshot](https://github.com/yashkumar002/amazon-clone-website-for-students/blob/main/Output.png)
 
 ---
 
